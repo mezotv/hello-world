@@ -1,5 +1,5 @@
-Imports System 'System is a Namespace  
-Module Hello_Program  
+Imports System
+Module World_Program  
   
     Sub Main()  
   
