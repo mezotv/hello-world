@@ -1,0 +1,10 @@
+hi bhai
+ bol bhai "Hello World";
+bye bhai
+
+//official website - bhailang.js.org/
+
+//Usage - 
+//1. Install as a npm package - npm i -g bhailang
+//2. Create a file with .bhai extension (like hello.bhai)
+//3. Run in terminal using code - `bhai <file_name>` (like bhai hello.bhai)
