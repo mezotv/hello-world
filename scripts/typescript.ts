@@ -1,1 +1,3 @@
-console.log("Hello World!")
+let typescript:string = 'Hello World'
+
+console.log(typescript)
