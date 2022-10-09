@@ -1,2 +1,2 @@
 -- Hello World in Lua
-print("Hello World")
+print("Hello World!")
