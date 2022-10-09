@@ -4,5 +4,5 @@ start:  mvi    c,9      ; BDOS function: output string
         call   bdos
         ret             ; return to CCP
   
-msg$:   db    'Hello, world!$'
+msg$:   db    'Hello, World!$'
 end     start
