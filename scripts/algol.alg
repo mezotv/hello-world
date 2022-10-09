@@ -1,1 +1,1 @@
-BEGIN DISPLAY("Hello World") END.
+BEGIN DISPLAY("Hello World!") END.
