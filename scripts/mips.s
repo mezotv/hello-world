@@ -1,5 +1,5 @@
 .data
-str: .asciiz "Hello World"
+str: .asciiz "Hello World!"
 .text
 
 main:
