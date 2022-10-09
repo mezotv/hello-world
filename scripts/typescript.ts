@@ -1,3 +1,3 @@
-let typescript:string = 'Hello World'
+let typescript:string = 'Hello World!'
 
 console.log(typescript)
