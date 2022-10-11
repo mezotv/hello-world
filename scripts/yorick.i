@@ -1,2 +1,2 @@
 #!/usr/bin/yorick -batch
-print, "Hello World";
+print, "Hello World!";
