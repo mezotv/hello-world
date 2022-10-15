@@ -1,0 +1,5 @@
+#include "core.scale"
+
+function main()
+    "Hello World!" puts
+end
