@@ -1,0 +1,12 @@
+{
+  "developmentRegion" : "en",
+  "project" : "hello-world-swiftui.xcodeproj",
+  "targetLocale" : "de",
+  "toolInfo" : {
+    "toolBuildNumber" : "14B47b",
+    "toolID" : "com.apple.dt.xcode",
+    "toolName" : "Xcode",
+    "toolVersion" : "14.1"
+  },
+  "version" : "1.0"
+}
