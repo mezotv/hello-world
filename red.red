@@ -1,3 +1,0 @@
-Red []
-
-print "Hello World"
