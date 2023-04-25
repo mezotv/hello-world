@@ -1,5 +1,3 @@
-#include "core.scale"
-
-function main()
+function main(): none
     "Hello World!" puts
 end
